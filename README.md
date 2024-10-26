@@ -16,7 +16,7 @@
 
 <h1 align="center">Hey, I'm Kanishka Sriramoju</h1>
 <h5 align="center">Training Intern - Ed-Spread' 22 | Chaitanya Bharathi Institute of Technology </h5>
-<h6 align= "center" style="background-color:DodgerBlue;"> I’m currently studying in final year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and Web Development projects. I have hands on experience in programming languages Python, JavaScript. I have built multiple projects using Pytorch and machine learning algorithms. I have solved over 600 problems in various coding platforms like Hackerrank and Leetcode. I’m currently learning Operating Systems and Computer Networking. My skillset includes machine learning, database management systems, object oriented programming, web development and UI/UX.  
+<h6 align= "center" style="background-color:DodgerBlue;"> I’m currently studying in final year of Bachelor's of Engineering. I’m keen to work on Machine Learning, Data Analysis and Web Development projects. I have hands on experience in programming languages Python, JavaScript. I have built multiple projects using Pytorch and machine learning algorithms. I have solved over 600 problems in various coding platforms like Hackerrank and Leetcode. I’m currently learning Natural language processing. My skillset includes machine learning, database management systems, object oriented programming, web development and UI/UX.  
 
 </h6>
 
